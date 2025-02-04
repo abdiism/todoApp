@@ -34,7 +34,7 @@ A simple Todo application built with Node.js, Express, and MongoDB for the backe
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/todo-app.git
+   git clone https://github.com/abdiism/todo-app.git
    cd todo-app
    ```
 
